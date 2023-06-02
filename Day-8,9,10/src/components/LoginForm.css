@@ -1,0 +1,14 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height of the container to the full viewport height */
+  }
+  
+  .login-form {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    /* Additional styles for your login form */
+  }
